@@ -1,0 +1,210 @@
+[2022-03-27 05:27:35][INFO ] [ReqResPostStepDefinition:18] Se inicio el proceso de creacion de usuario[2022-03-27 19:06:04][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-03-27 19:06:04][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-03-27 19:06:04][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-03-27 19:06:04][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-03-27 19:06:57][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-03-27 19:06:57][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-03-27 19:06:58][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-03-27 19:06:58][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-03-27 22:21:44][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-03-27 22:21:44][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-03-27 22:21:45][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-03-27 22:21:45][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-06 18:04:30][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-06 18:04:30][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-06 18:04:41][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-06 18:04:41][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-06 18:05:17][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-06 18:05:17][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-06 18:05:30][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-06 18:05:30][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-06 18:06:34][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-06 18:06:34][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-06 18:06:36][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-06 18:06:36][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-07 19:04:28][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-07 19:04:28][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-07 19:04:29][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-07 19:04:29][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-08 15:59:47][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-08 15:59:47][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-08 15:59:48][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-08 15:59:48][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:09:53][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:09:53][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:09:53][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:09:53][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:21:27][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:21:27][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:21:32][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:21:32][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:24:22][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:24:22][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:24:23][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:24:23][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:25:32][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:25:32][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:25:32][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:25:32][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:25:53][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:25:53][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:25:59][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:25:59][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:38:37][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:38:37][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:38:38][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:38:38][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:47:10][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:47:10][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
+[2022-04-13 22:47:11][INFO ] [ReqResPostStepDefinition:41] {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+}
+[2022-04-13 22:47:11][INFO ] [ReqResPostStepDefinition:42] {
+    "email": "eve.holt@reqres.in",
+}
